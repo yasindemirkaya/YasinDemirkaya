@@ -6,4 +6,4 @@
 ### ⚡ Advanced proficiency in English, ensuring smooth communication in international teams.
 ### ⚡ A proven ability to deliver high-quality, efficient web solutions in agile environments, combining both frontend and expertise.
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
