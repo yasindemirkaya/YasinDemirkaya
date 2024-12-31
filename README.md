@@ -6,4 +6,5 @@
 ### ⚡ Advanced proficiency in English, ensuring smooth communication in international teams.
 ### ⚡ A proven ability to deliver high-quality, efficient web solutions in agile environments, combining both frontend and expertise.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=GitHub&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-demirkaya/)
+
