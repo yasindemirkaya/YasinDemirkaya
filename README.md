@@ -5,3 +5,5 @@
 ### ⚡ Skilled in server-side development with Node.js (Express) and Laravel, and adept at integrating REST and SOAP APIs.
 ### ⚡ Advanced proficiency in English, ensuring smooth communication in international teams.
 ### ⚡ A proven ability to deliver high-quality, efficient web solutions in agile environments, combining both frontend and expertise.
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
