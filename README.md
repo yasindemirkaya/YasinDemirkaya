@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**yasindemirkaya/YasinDemirkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - ⚡ Experienced Software Developer with over four years in web development, 
 specializing in modern JavaScript frameworks such as Vue.js (Nuxt.js) and React 
 (Next.js). 
